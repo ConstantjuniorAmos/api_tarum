@@ -3,10 +3,11 @@ from flask import request, jsonify, render_template
 import firebase_admin
 from firebase_admin import credentials, firestore
 from datetime import datetime  # Ajoutez cette ligne pour obtenir la date et l'heure actuelles
-
-
+import os 
+from dotenv import load_dotenv
 import stripe
 
+load_dotenv()
 app = flask.Flask(__name__)
 
 # Configuration de Firebase
@@ -15,8 +16,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 # Configuration de Stripe
-stripe.api_key = "sk_live_ENK7aJUR3LfuudDQAkEXCppB00iT6h8JWk"  # Remplacez par votre clé secrète Stripe
-
+stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
 # Fonction de création d'un paiement
 def create_payment(amount, currency, customer_id, token):
     # Création d'un objet de paiement Stripe
