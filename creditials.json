@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tarumdatabase",
+  "private_key_id": "9b588e8c6733ebe2e9224d28043e402dd2f1eb99",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNK9cyutqES3gT\nPHg4VrzhDdzl2RKtLiwJCd83BOb/KpIFf6l7lRmCYdT7rJJQh7CXYh0/NiLYPBg3\nelBDEI5gleI92i8KfHLtndrKqGGoYhO3NIoc/I9jg9b1SMgMysJHJGp76dNMFL7X\nDIl/nMbJzbd0eOoWvbYY4xwtjWeDVJA2x7zHJtg+qlryycVaflT3I8I7vAZO9gsR\ngzX8ImLpbQVcgfFlpZeDhMoW0754ezecHUE3XqVtBh7dK3+wiy1MbmuJHzRT0kmI\naQAdmuZgDwlNp0QKYCGPWXe9NrUZMG9o1j/fQ2tJqVZoJK7CpIz5kfyni9XzhAXe\n5hyjFIPjAgMBAAECggEALrUwJNk83mOn7Vlm/2D3alDvYt8A9mqd6DmrcGU/VnKL\n0KTt+vUYdRKQaNquqFVUwKmWOqlbOwcbDhP6hU3vhZZhvgw33zTQw7ykPMQcV51n\nn4iTH8cSXB8tWoeDpPPa9rXeQ3RYVEZS5A0CW0YQYYmeZrtw3ChVnQNbedjcxE8S\n5+/RvY+m4JkBvbNsLcIrmu/gFHnWA4KVOXDoLfp0PJqprAw/W5hk+82MMMRmjY5s\nQdVcsX99Su0hBbJms+YdWYTGizja/COMKiv6SZ9F8GHrA7rYrDgqtthARC5mB6km\nI2y1xh2mB6tnmscNmjk34/c2m3gylvAdv6CrrUkyuQKBgQDF4Xn/+kbuPpEYa8/n\nr4PyvN9yKfdpCBAJnRjeRElF8yYLAxVhDI7MBOXPFrgf7Oa5HvZUfT12VxOcrG4n\nqdqnxpGYGwMDlDtjmJDys1KioY7KAkzxy25GV6v7xFNkzlIKOSkkN8XA45VJhmHz\nCNTTnzxRk+8bkKYR2ZJeacqPaQKBgQC2omnMfHtF0fwnT70eUo0i83ENXbZk1tOs\nfDM2TVGueQ/PZVTjOr59SbYLQn/BffxI4rmzAJM8AjVPB7zQUm21EKAcmWGOLUrZ\nzazTDk4mOIsgvPWxMlHlDUs1Qnxlel5xIJn5RU4w7UEbAX/z8BYxp++GpXlwSGyw\nJ+QI9SabawKBgGXQ+44rf/2sMcooByTGGZV3e11pnITtghsAO0B6UF1um7+EyaZS\n6NKvHnPs07aRlbHg7YxRmKNgcJXn3xIHgptbP6TNGULpLZm0cbh/bmCB0k+82Ux8\niPQmvjZgMSyoQGxENxgMnnL+Zt0bCSEdBS0SPN4YySocxmZe1cJAmtopAoGAVlEA\na9LReDg8UmAPY8tkRQaFgemukI4v0K+KjLmSR0GURVMBAbv7178EuOGe+9YNbG0r\nkvxMmen5Q/bGODcc/pxy79FWGBoz7CiW69ExAkNrDfgArtS3e+gCiZN4s4VYKWNd\nIkCtKdaYFKlqzeHEu4dBX4PJl1XDeKYB0nH64y0CgYB7y6HPrYwmJYOqnCk0Gwa+\nmK6A1BYUghoN6luHBJaTvt1jxEDYQwDFLNjA3SjiiZkxM8ntq/uxEo0+4zWnS2Rm\n12IPxDIjSBIlyxHlrVa5IuPzKIBoZJ2kvEVw5k48IprB+7nIBrywstqKNxhVH1C+\nSoZlSCr37vLedVEj2QVjtA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qggci@tarumdatabase.iam.gserviceaccount.com",
+  "client_id": "118121307621275018814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qggci%40tarumdatabase.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
