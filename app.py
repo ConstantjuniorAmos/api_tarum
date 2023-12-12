@@ -102,7 +102,7 @@ def get_stripe_activities():
         # Envoi de l'objet d'activité sur Firebase
         db.collection("activities").document(activity.id).set(activity_data)
 
-@app.route("/", methods=["GET"])
+@app.route("/")
 def index():
     return render_template("index.html")
 
